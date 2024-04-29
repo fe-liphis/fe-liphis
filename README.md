@@ -4,7 +4,7 @@
   
   <p>👨‍💻 - <strong>Estudante</strong> de Análise e Desenvolvimento de Sistemas 07/2023 - 12/2025</p>
   <p>👾 - <strong>Desenvolvedor de Software</strong></p>
-  <p>📖 - <a href="https://fe-liphis.com.br/"><strong>Portfólio</strong></a> em andamento...</p>
+  <p>📖 - <a href="https://fe-liphis.com.br/"><strong>Portfólio</strong></a></p>
   
 </section>
 
