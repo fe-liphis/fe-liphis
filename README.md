@@ -62,8 +62,11 @@ Apaixonado por tecnologia, também tenho experiência no desenvolvimento front-e
 ### 📫 Contato
 
 📍 Suzano - SP
+
 📧 felipeg.costaoliveira@gmail.com
+
 🌐 [linkedin.com/in/fe-liphis](https://www.linkedin.com/in/fe-liphis)  
+
 🔗 [fe-liphis.com.br](https://fe-liphis.com.br)
 
 ---
